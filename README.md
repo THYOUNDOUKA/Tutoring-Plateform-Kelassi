@@ -76,7 +76,7 @@ progressivement dans le dossier `docs/`.
 tutoring-platform/
 │
 ├── docs/               # Documentation (UML, architecture, cas d’utilisation)
-├── mockups/            # Maquettes UI (Figma / Whimsical)
+├── mockups/            # Maquettes UI (Figma)
 ├── backend/            # Code backend (à venir)
 ├── frontend/           # Code frontend (à venir)
 └── README.md
